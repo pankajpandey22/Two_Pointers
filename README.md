@@ -14,15 +14,9 @@ Consider using Two Pointers if the problem meets these conditions:
 
 ---
 
-## 🚀 Pointer Directions & Mechanics
-
-### 1. Converging Pointers (Opposite Ends)
+## 🚀 Approach Two Pointers
 * **How it works:** One pointer starts at the **beginning (`left = 0`)** and the other at the **end (`right = len - 1`)**. They move toward each other based on problem conditions until they meet or cross over.
 * **Common Applications:** Finding target element pairs in sorted lists, reversing sequences, and checking for mirror symmetries like palindromes.
-
-### 2. Parallel / Fast & Slow Pointers (Same Direction)
-* **How it works:** Both pointers start at the same side but move at **different speeds** (e.g., a slow pointer moving 1 step while a fast pointer moves 2 steps) or maintain a fixed, predictable window gap.
-* **Common Applications:** Detecting cyclic loops in linked structures, finding structural middle elements, and removing duplicate items in-place.
 
 ---
 
