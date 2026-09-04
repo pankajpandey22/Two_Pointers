@@ -29,3 +29,7 @@ Consider using Two Pointers if the problem meets these conditions:
 
 ## 📁 Solved Problems
 
+| # | Problem Name | Problem Link | Data Structure |
+| :--- | :---: | :---: | :---: |
+| 0167 | Two Sum II - Input Array Is Sorted | [Click Here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array |
+| # | Rearrange 0 and 1 | [Click Here](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Array |
