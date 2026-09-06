@@ -31,6 +31,7 @@ Consider using Two Pointers if the problem meets these conditions:
 
 | # | Problem Name | Problem Link | Data Structure | Solution Link |
 | :--- | :---: | :---: | :---: | :---: |
-| 0167 | Two Sum II - Input Array Is Sorted | [Click Here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array | [Solution Link](/0167_Two_Sum_II.java) |
 | 0026 | Remove Duplicates from Sorted Array | [Click Here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array | [Solution Link](/0026_Remove_Duplicates_from_Sorted_Array.java) |
+| 0080 | Remove Duplicates from Sorted Array II | [Click Here](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Array | [Solution Link](/0080_Remove_Duplicates_from_Sorted_Array_II.java) |
+| 0167 | Two Sum II - Input Array Is Sorted | [Click Here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array | [Solution Link](/0167_Two_Sum_II.java) |
 | # | Rearrange 0 and 1 | [Click Here](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Array | [Solution Link](/Segregate_0s_and_1s.java) |
